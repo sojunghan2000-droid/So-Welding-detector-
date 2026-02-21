@@ -1,0 +1,8 @@
+streamlit
+google-cloud-aiplatform
+google-auth
+protobuf
+numpy
+pandas
+Pillow
+opencv-python-headless
